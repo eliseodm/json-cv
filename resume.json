@@ -53,7 +53,7 @@
       "position": "IT Technician",
       "startDate": "2020-04-01",
       "endDate": "2022-03-31",
-      "summary": "We care for people in vulnerable situations and create employability conditions for development with equity.",
+      "summary": "The governmental institution serves people in vulnerable situations and creates employability conditions for development with equity.",
       "highlights": [
         "Data Analist",
         "Develop Solutions"
@@ -144,6 +144,45 @@
         "Analist"
       ],
       "type": "Progressive web app"
+    },
+    {
+      "name": "GuenCuero",
+      "description": "It is an e-commerce website for products made for field work.",
+      "highlights": [
+        "Using modern technologies such as React, Mongo, Strapi and AS3 Bucket"
+      ],
+      "keywords": [
+        "React",
+        "Mongo",
+        "Strapi",
+        "AWS S3"
+      ],
+      "startDate": "2022-04-01",
+      "endDate": "2022-05-01",
+      "roles": [
+        "Developer",
+        "Designer",
+        "Analist"
+      ],
+      "type": "e-commerse"
+    },
+    {
+      "name": "SnakeJS",
+      "description": "A classic snake like game made in vanilla JS.",
+      "highlights": [
+        "Plain vanilla JavaScript, and canvas for draw animation"
+      ],
+      "keywords": [
+        "JavaScript",
+        "HTML"
+      ],
+      "startDate": "2022-04-01",
+      "endDate": "2022-05-01",
+      "url": "https://eliseodm.github.io/snake/",
+      "roles": [
+        "Developer"
+      ],
+      "type": "game"
     }
   ],
   "meta": {
