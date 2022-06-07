@@ -1,0 +1,155 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Eliseo Diaz Medina",
+    "label": "Programmer",
+    "image": "",
+    "email": "eliseodm@gmail.com",
+    "phone": "+54(381)5502404",
+    "summary": "I'm a software developer learning about JS frameworks, web technologies and cross-platform development. I like to keep up to date with the latest technologies and apply best development practices. That is why I am looking for a project and a team in which I can apply everything I have learned. In my spare time I love to take photos and videos.",
+    "location": {
+      "address": "Monteagudo 993",
+      "postalCode": "4000",
+      "city": "San Miguel de Tucumán",
+      "countryCode": "AR",
+      "region": "Tucumán"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "eliseodm",
+        "url": "https://www.linkedin.com/in/eliseodm/"
+      },
+      {
+        "network": "GitHub",
+        "username": "eliseodm",
+        "url": "https://github.com/eliseodm"
+      },
+      {
+        "network": "Twitter",
+        "username": "eliseodm",
+        "url": "https://twitter.com/eliseodm"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "EIA Labs",
+      "location": "San Miguel de Tucumán",
+      "description": "Software development team",
+      "position": "Frontend Developer",
+      "startDate": "2021-06-01",
+      "endDate": "2022-06-01",
+      "summary": "We are a group of friends and coworkers that meet in colege and are passionate for the same things. The team are working with multiple technologies, mainly with a FERN stack.",
+      "highlights": [
+        "Building a PWA for medical professionals",
+        "Tani is a comprehensive billing system for the healthcare environment."
+      ]
+    },
+    {
+      "name": "Ministerio de Desarrollo Social",
+      "location": "San Miguel de Tucumán",
+      "description": "Worked as an IT specialist, providing web solutions, design and support.",
+      "position": "IT Technician",
+      "startDate": "2020-04-01",
+      "endDate": "2022-03-31",
+      "summary": "We care for people in vulnerable situations and create employability conditions for development with equity.",
+      "highlights": [
+        "Data Analist",
+        "Develop Solutions"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Techo",
+      "position": "Bilder",
+      "summary": "Worked in Tucuman settlements to address housing and habitat problems.",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Tecnologica Nacional - Facultad Reginal de Tucuman",
+      "area": "Systems Engineering",
+      "studyType": "Student",
+      "startDate": "2011-03-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Junior Advanced",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "React",
+        "Node",
+        "Mongo",
+        "Firebase",
+        "Git"
+      ]
+    },
+    {
+      "name": "Other Technologies",
+      "keywords": [
+        "Java",
+        "C#",
+        "C++",
+        "SQL",
+        "CMS"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Upper Medium"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Photography",
+      "keywords": [
+        "Street Photography",
+        "Analog Photography"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Tani",
+      "description": "Tani is our first major project for a client. It mainly provides an accounting and statistics solution to professionals and people in the medical environment.",
+      "highlights": [
+        "Using modern technologies such as React, Firestore and Firebase Functions"
+      ],
+      "keywords": [
+        "React",
+        "Firebase",
+        "Javascript"
+      ],
+      "startDate": "2021-06-01",
+      "endDate": "2022-06-01",
+      "url": "https://kani-test.netlify.app/",
+      "roles": [
+        "Developer",
+        "Designer",
+        "Analist"
+      ],
+      "type": "Progressive web app"
+    }
+  ],
+  "meta": {
+    "theme": "Actual",
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
